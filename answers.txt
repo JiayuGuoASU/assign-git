@@ -1,5 +1,5 @@
 • What is a gitignore file and what should it include for a Java project? 
-Git which files to ignore when committing your project to the GitHub repository
+Git which files to ignore when committing your project to the GitHub repository 
 # Compiled class file
 *.class
 
